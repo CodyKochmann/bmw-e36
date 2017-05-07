@@ -1,16 +1,16 @@
 # BMW E36
-Hi, this is where I keep all my [notes](), [changes](https://github.com/CodyKochmann/bmw-e36/blob/master/changelog.md), [struggles](https://github.com/CodyKochmann/bmw-e36/blob/master/issues.md) and [future plans](https://github.com/CodyKochmann/bmw-e36/blob/master/todo.md) for my [BMW E36](). Feel free to contact me if you need help on  a similar project or have some knowledge you can contribute to this build. :)
+Hi, this is where I keep all my [notes](), [changes](https://github.com/CodyKochmann/bmw-e36/blob/master/changelog.md), [struggles](https://github.com/CodyKochmann/bmw-e36/blob/master/issues.md) and [future plans](https://github.com/CodyKochmann/bmw-e36/blob/master/todo.md) for my BMW E36. Feel free to contact me if you need help on  a similar project or have some knowledge you can contribute to this build. :)
 
 ### Important Links:
 
 - [A log of all of the changes I have made so far.](https://github.com/CodyKochmann/bmw-e36/blob/master/changelog.md)
 - [Details about my specific E36](https://github.com/CodyKochmann/bmw-e36/blob/master/specs.md)
-- [My current list of issues/broken parts I need to address](https://github.com/CodyKochmann/bmw-e36/blob/master/issues.md)
+- [My current list of issues/broken parts I need to address](https://github.com/CodyKochmann/bmw-e36/blob/master/problems.md)
 - [My list of upcoming changes I want to make.](https://github.com/CodyKochmann/bmw-e36/blob/master/todo.md)
 
 ### How can you contribute?
 
-> If you want to help, you can start by [opening an issue]() which (in forum terms) starts a new thread/discussion under this project. I'm open to all tips/suggestions/criticisms or anything else you can come up with, as long as it's reasonable. Do note though: Dropping a few thousand for an engine swap is not within reason unless the entire process can be done for less than the original $500 that I spent on the E36.
+> If you want to help, you can start by [opening an issue](https://github.com/CodyKochmann/bmw-e36/issues) which (in forum terms) starts a new thread/discussion under this project. I'm open to all tips/suggestions/criticisms or anything else you can come up with, as long as it's reasonable. Do note though: Dropping a few thousand for an engine swap is not within reason unless the entire process can be done for less than the original $500 that I spent on the E36.
 
 ### How did this get started? 
 
